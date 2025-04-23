@@ -1,2 +1,10 @@
-# case-study-on-R
-This is my first data analyst project, that was made by me at the end of Google Data Analytics Proffesional Certification Program.
+# Case Study: Activity & Sleep Patterns
+
+This is my first data analytics project, completed at the end of the Google Data Analytics Professional Certificate program. The analysis was done using R and visualized through ggplot2.
+
+👉 **[View the full report here](https://akusrepus.github.io/case-study-on-R/)**
+
+## Insights
+
+- **Daily "Steps" Reminders**: Encourage users to stay active.
+- **Sleep Tracking & Improvement**: Help users optimize their rest with sleep efficiency scores and reminders.
